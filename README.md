@@ -9,6 +9,9 @@
 
 __Get started using GitHub in less than an hour.__
 
+
+![Graduate](images/university-graduates.jpg)
+
 <!-- 
   <<< Author notes: Start of the course >>> 
   Include start button, a note about Actions minutes,
